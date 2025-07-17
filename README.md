@@ -89,7 +89,7 @@ This app uses a trained **Logistic Regression** model (or any classification mod
 
 ## 🚀 Demo
 
-![ai for db png](demo_screenshot.png)
+![ai for db png.jpg png](demo_screenshot.png)
 
 🧪 **Sample Output:**  
 > ✅ Patient is NOT Diabetic (Probability: 0.29)
