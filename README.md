@@ -2,13 +2,14 @@
 
 This project uses machine learning algorithms to predict whether a person is likely to have diabetes based on various diagnostic features. It focuses on building predictive models, optimizing them through hyperparameter tuning, and evaluating their performance using both full and reduced feature sets.
 
----
+---🔗 **[Live Demo](https://aifordiabetes.streamlit.app/)** — Try it out now!
 
 ## 📌 Project Objective
 
 To develop an AI-powered model that can predict the likelihood of diabetes in a patient using input features such as glucose level, BMI, insulin, and more. The model is built with healthcare applications in mind, where early prediction can lead to faster diagnosis and intervention.
 
----
+---[![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-green?logo=streamlit)](https://aifordiabetes.streamlit.app/)
+
 
 ## 📊 Dataset
 
