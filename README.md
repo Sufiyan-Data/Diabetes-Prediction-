@@ -8,7 +8,6 @@ This project uses machine learning algorithms to predict whether a person is lik
 
 To develop an AI-powered model that can predict the likelihood of diabetes in a patient using input features such as glucose level, BMI, insulin, and more. The model is built with healthcare applications in mind, where early prediction can lead to faster diagnosis and intervention.
 
----[![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-green?logo=streamlit)](https://aifordiabetes.streamlit.app/)
 
 
 ## 📊 Dataset
@@ -127,6 +126,8 @@ This app uses a trained **Logistic Regression** model (or any classification mod
 ### 🔧 Prerequisites:
 Make sure you have Python installed. Then install the required libraries:
 xt
+
+[![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-green?logo=streamlit)](https://aifordiabetes.streamlit.app/)
 
 ### 📬 Contact
 
